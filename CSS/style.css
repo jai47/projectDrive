@@ -121,7 +121,6 @@ body{
     height: 90%;
     display: flex;
     gap: 10px;
-    align-items: center;
 }
 
 .main .left{
@@ -131,9 +130,9 @@ body{
 
 .main .middle{
     width: 80%;
-    height: 90%;
+    height: 98%;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .main .right{
