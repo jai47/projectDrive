@@ -115,3 +115,28 @@ body{
 .navIcons div img{
     width: 100%;
 }
+
+.main{
+    width: 100vw;
+    height: 90%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.main .left{
+    width: 18%;
+    height: 90%;
+}
+
+.main .middle{
+    width: 80%;
+    height: 90%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.main .right{
+    width: 5%;
+    height: 90%;
+}
